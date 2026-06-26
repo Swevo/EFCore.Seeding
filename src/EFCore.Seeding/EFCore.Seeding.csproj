@@ -6,7 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
 
     <PackageId>Swevo.EFCore.Seeding</PackageId>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Authors>Justin Bannister</Authors>
     <Copyright>Copyright (c) 2026 Justin Bannister</Copyright>
     <Description>Fluent, idempotent, dependency-ordered seed data for EF Core. Define IEntitySeed&lt;T&gt; classes, declare dependencies, call SeedDatabaseAsync() on startup. Seeds skip automatically when data already exists.</Description>
