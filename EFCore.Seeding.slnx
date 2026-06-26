@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/EFCore.Seeding/EFCore.Seeding.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/EFCore.Seeding.Tests/EFCore.Seeding.Tests.csproj" />
+  </Folder>
+</Solution>
