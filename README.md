@@ -1,6 +1,7 @@
 # Swevo.EFCore.Seeding
 
-[![NuGet](https://img.shields.io/nuget/v/Swevo.EFCore.Seeding.svg)](https://www.nuget.org/packages/Swevo.EFCore.Seeding)
+[![NuGet](https://img.shields.io/nuget/v/Swevo.EFCore.Seeding
+[![NuGet Downloads](https://img.shields.io/nuget/dt/Swevo.EFCore.Seeding.svg)](https://www.nuget.org/packages/Swevo.EFCore.Seeding).svg)](https://www.nuget.org/packages/Swevo.EFCore.Seeding)
 [![CI](https://github.com/Swevo/EFCore.Seeding/actions/workflows/build.yml/badge.svg)](https://github.com/Swevo/EFCore.Seeding/actions)
 
 Fluent, idempotent, dependency-ordered seed data for EF Core. Define `IEntitySeed<T>` classes, declare run-order dependencies, then call `SeedDatabaseAsync()` on startup. Seeds that find existing data skip themselves automatically.
